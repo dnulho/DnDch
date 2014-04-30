@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1396289307 source:c:\users\jonathan\desktop\c++\d&d\d&d ch\linked-list thread.cpp
+	<iostream>
+	<string>
+	<iomanip>
+	<vector>
+	<algorithm>
+	<functional>
+
